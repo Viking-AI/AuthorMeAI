@@ -12,7 +12,7 @@ AuthorMeAI is a hybrid AI-driven platform designed to automate the end-to-end pr
 ## Getting Started
 
 1. Clone this repository:
-   git clone https://github.com/YourUsername/AuthorMeAI.git
+   git clone https://github.com/Viking-AI/AuthorMeAI.git
 
 2. Install dependencies:
    pip install -r requirements.txt
